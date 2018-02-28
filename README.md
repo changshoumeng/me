@@ -1,20 +1,20 @@
 
 IM产品历程
 
-https://wenku.baidu.com/view/b2a73c961b37f111f18583d049649b6648d709ab
+https://note.youdao.com/share/?id=be585c398eb25013d7b9f6e8e07826af&type=note#/
 
 
 
 IM系统开发的那些事
 
-https://wenku.baidu.com/view/1ec7685c03768e9951e79b89680203d8ce2f6aa8
+https://note.youdao.com/share/?id=b39f7b1fedafd5169aff1a53ff3e5475&type=note#/
 
 
 IM的技术选型
 
-https://wenku.baidu.com/view/29cfcdd6aff8941ea76e58fafab069dc502247a9
+https://note.youdao.com/share/?id=381bc787ab4decffdbb750537911035d&type=note#/
 
 
 IM的功能设计
 
-https://wenku.baidu.com/view/efb920598f9951e79b89680203d8ce2f006665a8
+https://note.youdao.com/share/?id=dd913ab51c840cf826285d85df0236ab&type=note#/
